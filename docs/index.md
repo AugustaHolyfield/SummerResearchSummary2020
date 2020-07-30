@@ -3,7 +3,7 @@ title: My summer 2020 research experience
 layout:page
 ---
 
-# Summer 2020: Reflections
+## Summer 2020: Reflections
 
 # One Thing I will take away from this experience
   Over the course of this summer, I have learned many valuable skills in remote collaboration using the internet. I have refined and built on my skills working with the scala coding language, Jupyter notebooks, and using GitHub to coordinate projects. Given current events, I think these skills will be increasingly useful for this coming semester. They will also be helpful as I move into a bigger leadership role in HCMID.
